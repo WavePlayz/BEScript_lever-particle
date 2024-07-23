@@ -23,7 +23,7 @@ The addon listens for lever actions and triggers particle effects around powered
 
 ### Installation
 
-1. **Download the .mcpack file**: [GitHub Download](https://github.com/WavePlayz/BEScript_lever-particle/)
+1. **Download the .mcpack file**: [GitHub Download](https://github.com/WavePlayz/BEScript_lever-particle/releases/latest)
 2. **Import the Addon**: Double-click the .mcpack file to import it into Minecraft.
 3. **Activate the Addon**: In Minecraft, go to your world settings, click on "Behavior Packs", and enable the Lever Particle Addon.
 4. **Enable Experimental Features**: Ensure that the "Experimental Beta APIs" toggle is turned on in your world settings.
