@@ -1,0 +1,28 @@
+{
+	"format_version": 2,
+	
+	"header": {
+		"name": "Lever Particle",
+		"description": "by WavePlayz",
+		"uuid": "75a8bdb6-d8bf-47a8-9d5d-b68484d40c3d",
+		"version": [ 0, 1, 0 ],
+		"min_engine_version": [1, 20, 0]
+	},
+	
+	"modules": [
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "23678539-7dab-4086-82a7-21bf652cace1",
+			"version": [0, 1, 0],
+			"entry": "scripts/leverParticle.js"
+		}
+	],
+	
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.14.0-beta"
+		}
+	]
+}
