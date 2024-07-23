@@ -6,6 +6,9 @@
 
 The Lever Particle Addon enhances your Minecraft experience by adding visually appealing particle effects to powered levers. This captivating addon brings a new level of interaction and immersion to your world, making every lever flip an enchanting event.
 
+[![Watch the video](https://img.youtube.com/vi/rIr6iW_pRb4/0.jpg)](https://youtu.be/rIr6iW_pRb4?si=2OT76Yw3PhyHYsGL)
+
+
 ### Features
 
 - **Particle Effects**: Adds a redstone wire dust particle effect around powered levers.
